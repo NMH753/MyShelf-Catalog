@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "catalogVersion": 14,
+  "webtoons": [
+    {
+      "id": "novel_gutenberg_201",
+      "title": "플랫랜드",
+      "category": "소설",
+      "progressUnit": "쪽",
+      "platform": "프로젝트 구텐베르크",
+      "days": [],
+      "status": "모름",
+      "url": "https://www.gutenberg.org/ebooks/201",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/201",
+      "tags": [
+        "고전",
+        "SF"
+      ],
+      "metadataNote": "에드윈 애벗 애벗 · 영어 원문"
+    }
+  ]
+}
