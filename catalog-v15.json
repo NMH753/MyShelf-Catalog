@@ -1,0 +1,875 @@
+{
+  "version": 1,
+  "catalogVersion": 15,
+  "webtoons": [
+    {
+      "id": "novel_gutenberg_201",
+      "title": "플랫랜드",
+      "category": "소설",
+      "progressUnit": "쪽",
+      "platform": "프로젝트 구텐베르크",
+      "days": [],
+      "status": "모름",
+      "url": "https://www.gutenberg.org/ebooks/201",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/201",
+      "tags": [
+        "고전",
+        "SF"
+      ],
+      "metadataNote": "에드윈 애벗 애벗 · 영어 원문"
+    },
+    {
+      "id": "naver_844058",
+      "title": "신체",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=844058",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=844058",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_844058.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "엄세윤 / 정썸머 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_853278",
+      "title": "나의 경험",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=853278",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=853278",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_853278.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "윤박 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_832677",
+      "title": "절대군림",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=832677",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=832677",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_832677.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "박시대 / 장영훈"
+    },
+    {
+      "id": "naver_822657",
+      "title": "환생천마",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=822657",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=822657",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_822657.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "JP / 부겸 / 장영훈"
+    },
+    {
+      "id": "naver_841624",
+      "title": "오! 나의 교주님",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2,
+        5
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=841624",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=841624",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_841624.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "김꿀빨, 김완두 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_812354",
+      "title": "육아일기",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4,
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=812354",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=812354",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_812354.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "자까"
+    },
+    {
+      "id": "naver_836848",
+      "title": "44교시 생존수업",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=836848",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=836848",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_836848.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "상C"
+    },
+    {
+      "id": "naver_846109",
+      "title": "싸이코패스 in 무림",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=846109",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=846109",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_846109.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "김언 / 송범규 / 곤붕 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_836052",
+      "title": "마흔 즈음에",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=836052",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=836052",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_836052.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "서쿤스"
+    },
+    {
+      "id": "naver_848000",
+      "title": "범죄도시0",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=848000",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=848000",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_848000.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "박태준 / 정종택"
+    },
+    {
+      "id": "naver_832703",
+      "title": "시한부 천재가 살아남는 법",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=832703",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=832703",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_832703.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "JP / 윤승기 / 청시소"
+    },
+    {
+      "id": "naver_838002",
+      "title": "종말이 찾아왔다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=838002",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=838002",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_838002.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "전선욱"
+    },
+    {
+      "id": "naver_846883",
+      "title": "만취남녀",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=846883",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=846883",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_846883.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "금 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_852498",
+      "title": "럭키비치",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4,
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=852498",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=852498",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_852498.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "MAJOR, 약수 / 약수 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_840014",
+      "title": "샤MONEY즘",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=840014",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=840014",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_840014.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "나락 / 영기"
+    },
+    {
+      "id": "naver_854589",
+      "title": "조의 영역: 여의도",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=854589",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=854589",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_854589.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "조석"
+    },
+    {
+      "id": "naver_827190",
+      "title": "시든 꽃에 눈물을",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=827190",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=827190",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_827190.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "개 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_839568",
+      "title": "권왕환생",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=839568",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=839568",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_839568.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "최진형 / 도나스 / 유진성"
+    },
+    {
+      "id": "naver_796075",
+      "title": "절대검감",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=796075",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=796075",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_796075.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "김두루미 / 티아이 / 한중월야"
+    },
+    {
+      "id": "naver_847135",
+      "title": "쪽팔려게임",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "휴재",
+      "url": "https://comic.naver.com/webtoon/list?titleId=847135",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=847135",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_847135.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "봉수 / 다이"
+    },
+    {
+      "id": "naver_840687",
+      "title": "태존비록",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=840687",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=840687",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_840687.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "김꿀빨 / 레드훅 / 비가"
+    },
+    {
+      "id": "naver_833702",
+      "title": "파브르 in 사천당가",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=833702",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=833702",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_833702.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "지대공마법소년 / 크라켄 / 에르훗"
+    },
+    {
+      "id": "naver_850211",
+      "title": "제물 투표",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=850211",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=850211",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_850211.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "이아거"
+    },
+    {
+      "id": "naver_834502",
+      "title": "천마는 조용히 살고싶다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=834502",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=834502",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_834502.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "기제마, 전명우 / 슬우 / 김강현"
+    },
+    {
+      "id": "naver_849611",
+      "title": "모든걸 기억하는 천재무사",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=849611",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=849611",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_849611.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "Omin / 모기향 / 적설목"
+    },
+    {
+      "id": "naver_843116",
+      "title": "포그랜드",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=843116",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=843116",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_843116.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "POGO · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_842465",
+      "title": "네가 사는 그 집",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        5
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=842465",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=842465",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_842465.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "석우 / 해바다 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_845711",
+      "title": "둘째에게",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=845711",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=845711",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_845711.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "고태호 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_832566",
+      "title": "2회차 환관이 남성을 되찾음",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=832566",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=832566",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_832566.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "LICO / 포스스튜디오 / 노빠꾸맨 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_855893",
+      "title": "우리들의 속사정",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=855893",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=855893",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_855893.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "강문송 / 아와와 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_844519",
+      "title": "예쁨 컬렉션",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=844519",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=844519",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_844519.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "김이연 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_855153",
+      "title": "드래곤 여친이 귀환했다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=855153",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=855153",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_855153.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "LICO / 뚠딴 / 세칸"
+    },
+    {
+      "id": "naver_746857",
+      "title": "무사만리행",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=746857",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=746857",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_746857.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "운 / 배민기"
+    },
+    {
+      "id": "naver_844063",
+      "title": "악당들의 후원자가 되었다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        5
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=844063",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=844063",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_844063.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "LICO / 조겐 / 봄한방울"
+    },
+    {
+      "id": "naver_772853",
+      "title": "나태 공자, 노력 천재 되다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=772853",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=772853",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_772853.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "doip / 도도문 / 이등별"
+    },
+    {
+      "id": "naver_805193",
+      "title": "천화서고 대공자",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=805193",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=805193",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_805193.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "128 / MIDNIGHT STUDIO / 김현영"
+    },
+    {
+      "id": "naver_822573",
+      "title": "귀촌리",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=822573",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=822573",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_822573.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "황양 / 이대한"
+    },
+    {
+      "id": "naver_848349",
+      "title": "양치기 마법사",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=848349",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=848349",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_848349.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "박만사, 김꿀빨 / YU / 수박복숭아"
+    },
+    {
+      "id": "naver_804862",
+      "title": "백XX",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=804862",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=804862",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_804862.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "박만사, 병장 / 펀치킥"
+    },
+    {
+      "id": "naver_837486",
+      "title": "풍작이에요, 마왕님!",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=837486",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=837486",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_837486.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "이현민 / 여강현 / 문백경"
+    },
+    {
+      "id": "naver_765804",
+      "title": "A.I. 닥터",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        5
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=765804",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=765804",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_765804.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "ZAINO / 쿠큐 / 한산이가"
+    },
+    {
+      "id": "naver_855719",
+      "title": "대기업 탈출일지",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=855719",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=855719",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_855719.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "요다"
+    },
+    {
+      "id": "naver_845508",
+      "title": "하남자의 탑 공략법",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=845508",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=845508",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_845508.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "표표 / 플랜에이 / 꾸찌꾸찌"
+    },
+    {
+      "id": "naver_847541",
+      "title": "천씨세가의 망나니가 되었다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        2
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=847541",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=847541",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_847541.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "오수휘 / 백몽"
+    },
+    {
+      "id": "naver_834033",
+      "title": "썰:관계주의",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        3
+      ],
+      "status": "휴재",
+      "url": "https://comic.naver.com/webtoon/list?titleId=834033",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=834033",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_834033.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "이삼 / 장버들 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_852845",
+      "title": "전직지존",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        4
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=852845",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=852845",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_852845.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "KHJ / 손민 / 장영훈"
+    },
+    {
+      "id": "naver_845646",
+      "title": "두 얼굴",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        5
+      ],
+      "status": "휴재",
+      "url": "https://comic.naver.com/webtoon/list?titleId=845646",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=845646",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_845646.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "신도로 / 캔라 · 19세 이상 이용가"
+    },
+    {
+      "id": "naver_801475",
+      "title": "세레나",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        6
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=801475",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=801475",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_801475.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "정이나"
+    },
+    {
+      "id": "naver_852765",
+      "title": "프롤로그에서 30년이 흘렀다",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        7
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=852765",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=852765",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_852765.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "기린그린 / 맠엘라하"
+    },
+    {
+      "id": "naver_853709",
+      "title": "생존지상주의",
+      "category": "웹툰",
+      "progressUnit": "화",
+      "platform": "네이버웹툰",
+      "days": [
+        1
+      ],
+      "status": "연재 중",
+      "url": "https://comic.naver.com/webtoon/list?titleId=853709",
+      "sourceUrl": "https://comic.naver.com/webtoon/list?titleId=853709",
+      "coverUrl": "https://raw.githubusercontent.com/NMH753/MyShelf-Catalog/main/covers/naver_853709.jpg",
+      "tags": [],
+      "checkedAt": "2026-11-07",
+      "metadataNote": "토이 / 싱싱"
+    }
+  ]
+}
